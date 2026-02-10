@@ -8,7 +8,7 @@ Below is an example of the stored .json files for each planet:
   "notes": "Settlement",
   "atmos": "Martian"
   "terra": "Continental"
-  "salt": "True",
+  "salt": "False",
   "lime": "True",
   "quartz": "True",
   [an so on...]
