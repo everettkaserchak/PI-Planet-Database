@@ -14,4 +14,4 @@ Below is an example of the stored .json files for each planet:
   [an so on...]
 }
 ```
-  Our goal at Polaris Industries is to make things accesible for everyone. This can include but not exclude *automatic kerosene, automatic uranium, automatic steel, automatic copper, stockpiles, care packages, and easy planet information.* Ever since I first started playing Space Pion 
+  To use it, simply go to [our website](https://hambateverett.github.io) and click "Planet Finder" in the top right.
